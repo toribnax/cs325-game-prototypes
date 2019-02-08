@@ -34,6 +34,7 @@ function preload() {
 var player;
 var platforms;
 var cursors;
+var veggies;
 
 var score = 0;
 var scoreText;
